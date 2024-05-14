@@ -28,7 +28,7 @@
 </br></br>
 ## 🌏 Connect with me...
 
-- <img width="26" height="26" alt="email" src="https://user-images.githubusercontent.com/101383047/189492660-adb48aa4-e0c0-417b-9268-db71d99d389f.png"> &nbsp; pravindnikam07@gmail.com
+- <img width="26" height="26" alt="email" src="https://user-images.githubusercontent.com/101383047/189492660-adb48aa4-e0c0-417b-9268-db71d99d389f.png"> &nbsp; kumarivanu@gmail.com
 - <img width="26" height="26" alt="LinkedIn" src="https://user-images.githubusercontent.com/101383047/189492379-0165edd5-b873-4df7-b85b-8fe8e624694c.png"> &nbsp; [vanu](https://www.linkedin.com/in/vanu//)
 
 
