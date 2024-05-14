@@ -1,4 +1,14 @@
-### Hi there 👋
+<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/vanu/" target="_blank" rel="noreferrer">Vandana Kumari</a> 👋</h3>
+
+<h2 align="center">I'm a Software QA Automation Engineer 💻</h2>
+
+## <img width="26" height="26" alt="about me" src="https://user-images.githubusercontent.com/101383047/189491727-7a027ae4-6a8f-41e5-a38b-34cba60a7a0c.png"> About Me 
+> #### Software QA Automation Engineer | Programmer
+<!--<span><img width="30" height="30" alt="javaScript" src="https://user-images.githubusercontent.com/101383047/184540783-5fbe075d-a347-4883-8192-b43925cdd60e.png"></span>-->
+- Hi! My name is Vandana from Bangalore.
+- I'm handy with Java,Selenium,RestAssured API,Cucumber,TestNG,MySQL,GitHub,Jenkins,Mavan
+- Trigger to learn new technologies in Automation Engineer.
+- Leisure interest in listening music and reading novels.
 
 <!--
 **kumarivanu/kumarivanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
